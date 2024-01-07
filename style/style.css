@@ -19,6 +19,9 @@
   --itemBorderRadius: 0.7rem;
 }
 
+body {
+  margin: 30px
+}
 * {
   margin: 0;
   padding: 0;
